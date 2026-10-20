@@ -37,3 +37,11 @@ git clone https://github.com/aruintelligence/divine-whisper-v8-cognitive-physics
 cd divine-whisper-v8-cognitive-physics
 pip install torch plotly numpy
 python dw_v8_physics_engine.py
+
+---
+
+### Inward Physics research navigation
+
+[Complete Inward Physics index](https://github.com/aruintelligence/aruintelligence/blob/main/INWARD_PHYSICS.md) · [Daniel Jacob Read IV’s ORCID](https://orcid.org/0009-0000-6133-1872) · [Zenodo DOI series (record index)](https://github.com/aruintelligence/aruintelligence/blob/main/INWARD_PHYSICS.md#zenodo-record-index)
+
+These links index project-authored proposals and simulations; they do not imply independent validation of a physical model.
